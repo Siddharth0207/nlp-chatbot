@@ -1,0 +1,10 @@
+numpy
+pandas
+datasets
+huggingface-hub
+transformers
+scikit-learn
+torch
+kagglehub==0.3.11
+rarfile==4.2
+zipfile36==0.1.3
