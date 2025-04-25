@@ -9,3 +9,6 @@ kagglehub==0.3.11
 rarfile==4.2
 zipfile36==0.1.3
 emoji==2.14.1
+openai-whisper
+ffmpeg-python
+-e .

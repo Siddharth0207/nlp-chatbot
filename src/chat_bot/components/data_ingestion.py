@@ -8,10 +8,10 @@ from src.chat_bot.exception import CustomException
 
 from datasets import load_dataset
 from typing import List, Dict, Any
-
 import kagglehub
 from kagglehub import KaggleDatasetAdapter
 import zipfile
+import whisper
 
 
 
